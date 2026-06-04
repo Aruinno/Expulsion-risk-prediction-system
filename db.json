@@ -1,0 +1,155 @@
+{
+  "disciplines": [
+    {
+      "id": "d1",
+      "name": "Математика",
+      "lessons": 36,
+      "tasks": 8
+    },
+    {
+      "id": "d2",
+      "name": "Программирование",
+      "lessons": 30,
+      "tasks": 12
+    },
+    {
+      "id": "d3",
+      "name": "Базы данных",
+      "lessons": 24,
+      "tasks": 6
+    },
+    {
+      "id": "d4",
+      "name": "Английский язык",
+      "lessons": 20,
+      "tasks": 5
+    }
+  ],
+  "students": [
+    {
+      "id": "STU-001",
+      "name": "Алия Нурланова",
+      "group": "ИС-21-1",
+      "semester": "3",
+      "gpa": 3.8,
+      "discData": {
+        "d1": {
+          "attended": 34,
+          "done": 8
+        },
+        "d2": {
+          "attended": 28,
+          "done": 12
+        },
+        "d3": {
+          "attended": 22,
+          "done": 6
+        },
+        "d4": {
+          "attended": 19,
+          "done": 5
+        }
+      }
+    },
+    {
+      "id": "STU-002",
+      "name": "Тимур Бекович",
+      "group": "ИС-21-1",
+      "semester": "3",
+      "gpa": 2.1,
+      "discData": {
+        "d1": {
+          "attended": 14,
+          "done": 2
+        },
+        "d2": {
+          "attended": 10,
+          "done": 3
+        },
+        "d3": {
+          "attended": 8,
+          "done": 1
+        },
+        "d4": {
+          "attended": 7,
+          "done": 1
+        }
+      }
+    },
+    {
+      "id": "STU-003",
+      "name": "Дана Сейткали",
+      "group": "ИС-21-2",
+      "semester": "3",
+      "gpa": 2.9,
+      "discData": {
+        "d1": {
+          "attended": 20,
+          "done": 4
+        },
+        "d2": {
+          "attended": 17,
+          "done": 6
+        },
+        "d3": {
+          "attended": 15,
+          "done": 3
+        },
+        "d4": {
+          "attended": 12,
+          "done": 3
+        }
+      }
+    },
+    {
+      "id": "STU-004",
+      "name": "Руслан Ахметов",
+      "group": "ВТ-22-1",
+      "semester": "2",
+      "gpa": 3.5,
+      "discData": {
+        "d1": {
+          "attended": 32,
+          "done": 7
+        },
+        "d2": {
+          "attended": 27,
+          "done": 11
+        },
+        "d3": {
+          "attended": 21,
+          "done": 5
+        },
+        "d4": {
+          "attended": 18,
+          "done": 5
+        }
+      }
+    },
+    {
+      "id": "STU-005",
+      "name": "Айгерим Жакупова",
+      "group": "ВТ-22-1",
+      "semester": "2",
+      "gpa": 1.8,
+      "discData": {
+        "d1": {
+          "attended": 12,
+          "done": 2
+        },
+        "d2": {
+          "attended": 9,
+          "done": 2
+        },
+        "d3": {
+          "attended": 7,
+          "done": 1
+        },
+        "d4": {
+          "attended": 5,
+          "done": 0
+        }
+      }
+    }
+  ]
+}
